@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mulloverit
 - 👀 I’m a decade into my career in geospatial, having focused mostly on remote sensing
-- 🌱 I’m currently working as a consultant and slowly pursuing a license in land surveying
+- 🌱 I’m currently working as a consultant and pursuing a license in land surveying
 
 
 <!---
